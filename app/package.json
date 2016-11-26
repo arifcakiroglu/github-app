@@ -1,0 +1,23 @@
+{
+  "name": "github-app",
+  "version": "0.0.0",
+  "description": "Github electron app",
+  "main": "electron.js",
+  "dependencies": {
+    "base-64": "^0.1.0",
+    "github-markdown-css": "^2.4.1",
+    "jquery": "^3.1.1",
+    "markdown-it": "^8.1.0",
+    "superagent": "^3.0.0",
+    "vue": "^2.0.1",
+    "vue-electron": "^1.0.0",
+    "vue-resource": "^1.0.3",
+    "vue-router": "^2.0.0",
+    "vuex": "^2.0.0"
+  },
+  "devDependencies": {
+    "node-sass": "^3.13.0",
+    "sass-loader": "^4.0.2"
+  },
+  "author": "Arif Çakıroğlu <arif@linux.com>"
+}
