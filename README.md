@@ -1,6 +1,8 @@
 # Github electron app
 Bu uygulama  Electron.Js İstanbul atölyesi için hazırlanmıştır. Node.js ile yazılan bir api yardımıyla Github datalarınızı görmeye yarar.
 
+![Github](https://github.com/arifcakiroglu/github-app/blob/master/github.jpg?raw=true) 
+
 ### Kullanılan araçlar
 * Vue.js
 * Superagent
