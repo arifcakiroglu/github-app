@@ -2,7 +2,6 @@
 Bu uygulama  Electron.Js İstanbul atölyesi için hazırlanmıştır. Node.js ile yazılan bir api yardımıyla Github datalarınızı görmeye yarar.
 
 ### Kullanılan araçlar
-
 * Vue.js
 * Superagent
 * markdown-it
@@ -27,3 +26,7 @@ npm run build
 npm run pack
 ```
 ---
+
+### Mac kullanıcıları için windows çıktı alma
+* [XQuartz 2.7.7](http://xquartz.soft32.com/download/file/id/1229114/)
+* [Wine](https://dl.winehq.org/wine-builds/macosx/download.html)
